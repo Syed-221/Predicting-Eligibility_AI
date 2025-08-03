@@ -32,7 +32,7 @@ The repository is organized as follows:
 To get a local copy of this project up and running, follow these steps:
 
 1. Clone the repository:  
-   git clone https://github.com/Syed-221/Predicting-Eligibility\_AI.git
+   git clone https://github.com/Syed-221/Predicting-Eligibility_AI.git
 
 2. Navigate to the project directory:  
    cd Predicting-Eligibility\_AI
